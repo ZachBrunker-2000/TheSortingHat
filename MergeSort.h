@@ -1,3 +1,5 @@
+/*Credit for this search algorithm goes to geeksforgeeks.org*/
+
 #pragma once
 #include <iostream>
 #include <string>
